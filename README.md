@@ -1,16 +1,13 @@
-## Hi there 👋
+## OIII, BEM VINDOS 👯✨
 
-<!--
-**grazielle157/grazielle157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Grazi
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- estou me desenvolvendo no javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você pode entrar em contato comigo 👼
+
+00001086769831sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/WuG5qhJkNU8AAAAi/dancing-letter-letter-g.gif)
